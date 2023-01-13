@@ -28,7 +28,7 @@
   border-right: 1px solid #30363d;
 }
 
-.box-shadow-active-border-inverse-mktg {
+.box-shadow-active-border-inverse {
   box-shadow: 0 0 0 1px rgb(0 0 0 / 50%), 0 70px 65px rgb(0 0 0 / 18%),
     0 30px 30px rgb(0 0 0 / 14%), 0 15px 15px rgb(0 0 0 / 12%),
     0 10px 8px rgb(0 0 0 / 10%), 0 4px 4px rgb(0 0 0 / 8%),
@@ -78,7 +78,7 @@
 }
 
 @media (min-width: 768px) {
-  .col-md-6 {
+  .code-col-md-6 {
     width: 40%;
   }
 }
